@@ -901,3 +901,178 @@ W: Creating socket for 'localhost:9000', poll success, but error: Operation now 
 E: Could not connect to client. :-(
 Log closed at 2018-11-12 00:50:58
 
+Log opened at 2018-11-12 00:54:09
+I: Connecting to configured address/port: localhost:9000.
+W: Creating socket for 'localhost:9000', poll success, but error: Operation now in progress (19).
+W: Creating socket for 'localhost:9000', poll success, but error: Operation now in progress (19).
+E: Could not connect to client. :-(
+Log closed at 2018-11-12 00:54:09
+
+Log opened at 2018-11-12 00:54:31
+I: Connecting to configured address/port: localhost:9000.
+W: Creating socket for 'localhost:9000', poll success, but error: Operation now in progress (19).
+W: Creating socket for 'localhost:9000', poll success, but error: Operation now in progress (19).
+E: Could not connect to client. :-(
+Log closed at 2018-11-12 00:54:31
+
+Log opened at 2018-11-12 00:59:47
+I: Connecting to configured address/port: localhost:9000.
+W: Creating socket for 'localhost:9000', poll success, but error: Operation now in progress (19).
+W: Creating socket for 'localhost:9000', poll success, but error: Operation now in progress (19).
+E: Could not connect to client. :-(
+Log closed at 2018-11-12 00:59:47
+
+Log opened at 2018-11-12 01:37:16
+I: Connecting to configured address/port: localhost:9000.
+W: Creating socket for 'localhost:9000', poll success, but error: Operation now in progress (19).
+W: Creating socket for 'localhost:9000', poll success, but error: Operation now in progress (19).
+E: Could not connect to client. :-(
+Log closed at 2018-11-12 01:37:16
+
+Log opened at 2018-11-12 01:37:48
+I: Connecting to configured address/port: localhost:9000.
+W: Creating socket for 'localhost:9000', poll success, but error: Operation now in progress (19).
+W: Creating socket for 'localhost:9000', poll success, but error: Operation now in progress (19).
+E: Could not connect to client. :-(
+Log closed at 2018-11-12 01:37:48
+
+Log opened at 2018-11-12 01:39:15
+I: Connecting to configured address/port: localhost:9000.
+W: Creating socket for 'localhost:9000', poll success, but error: Operation now in progress (19).
+W: Creating socket for 'localhost:9000', poll success, but error: Operation now in progress (19).
+E: Could not connect to client. :-(
+Log closed at 2018-11-12 01:39:15
+
+Log opened at 2018-11-12 01:40:54
+I: Connecting to configured address/port: localhost:9000.
+W: Creating socket for 'localhost:9000', poll success, but error: Operation now in progress (19).
+W: Creating socket for 'localhost:9000', poll success, but error: Operation now in progress (19).
+E: Could not connect to client. :-(
+Log closed at 2018-11-12 01:40:54
+
+Log opened at 2018-11-12 01:41:15
+I: Connecting to configured address/port: localhost:9000.
+W: Creating socket for 'localhost:9000', poll success, but error: Operation now in progress (19).
+W: Creating socket for 'localhost:9000', poll success, but error: Operation now in progress (19).
+E: Could not connect to client. :-(
+Log closed at 2018-11-12 01:41:15
+
+Log opened at 2018-11-12 01:43:28
+I: Connecting to configured address/port: localhost:9000.
+W: Creating socket for 'localhost:9000', poll success, but error: Operation now in progress (19).
+W: Creating socket for 'localhost:9000', poll success, but error: Operation now in progress (19).
+E: Could not connect to client. :-(
+Log closed at 2018-11-12 01:43:28
+
+Log opened at 2018-11-12 01:43:33
+I: Connecting to configured address/port: localhost:9000.
+W: Creating socket for 'localhost:9000', poll success, but error: Operation now in progress (19).
+W: Creating socket for 'localhost:9000', poll success, but error: Operation now in progress (19).
+E: Could not connect to client. :-(
+Log closed at 2018-11-12 01:43:33
+
+Log opened at 2018-11-12 01:43:45
+I: Connecting to configured address/port: localhost:9000.
+W: Creating socket for 'localhost:9000', poll success, but error: Operation now in progress (19).
+W: Creating socket for 'localhost:9000', poll success, but error: Operation now in progress (19).
+E: Could not connect to client. :-(
+Log closed at 2018-11-12 01:43:45
+
+Log opened at 2018-11-12 01:44:04
+I: Connecting to configured address/port: localhost:9000.
+W: Creating socket for 'localhost:9000', poll success, but error: Operation now in progress (19).
+W: Creating socket for 'localhost:9000', poll success, but error: Operation now in progress (19).
+E: Could not connect to client. :-(
+Log closed at 2018-11-12 01:44:04
+
+Log opened at 2018-11-12 17:38:21
+I: Connecting to configured address/port: localhost:9000.
+W: Creating socket for 'localhost:9000', poll success, but error: Operation now in progress (19).
+W: Creating socket for 'localhost:9000', poll success, but error: Operation now in progress (19).
+E: Could not connect to client. :-(
+Log closed at 2018-11-12 17:38:21
+
+Log opened at 2018-11-12 17:38:31
+I: Connecting to configured address/port: localhost:9000.
+W: Creating socket for 'localhost:9000', poll success, but error: Operation now in progress (19).
+W: Creating socket for 'localhost:9000', poll success, but error: Operation now in progress (19).
+E: Could not connect to client. :-(
+Log closed at 2018-11-12 17:38:31
+
+Log opened at 2018-11-12 17:39:09
+I: Connecting to configured address/port: localhost:9000.
+W: Creating socket for 'localhost:9000', poll success, but error: Operation now in progress (19).
+W: Creating socket for 'localhost:9000', poll success, but error: Operation now in progress (19).
+E: Could not connect to client. :-(
+Log closed at 2018-11-12 17:39:09
+
+Log opened at 2018-11-12 17:39:18
+I: Connecting to configured address/port: localhost:9000.
+W: Creating socket for 'localhost:9000', poll success, but error: Operation now in progress (19).
+W: Creating socket for 'localhost:9000', poll success, but error: Operation now in progress (19).
+E: Could not connect to client. :-(
+Log closed at 2018-11-12 17:39:18
+
+Log opened at 2018-11-12 17:39:21
+I: Connecting to configured address/port: localhost:9000.
+W: Creating socket for 'localhost:9000', poll success, but error: Operation now in progress (19).
+W: Creating socket for 'localhost:9000', poll success, but error: Operation now in progress (19).
+E: Could not connect to client. :-(
+Log closed at 2018-11-12 17:39:21
+
+Log opened at 2018-11-12 17:52:21
+I: Connecting to configured address/port: localhost:9000.
+W: Creating socket for 'localhost:9000', poll success, but error: Operation now in progress (19).
+W: Creating socket for 'localhost:9000', poll success, but error: Operation now in progress (19).
+E: Could not connect to client. :-(
+Log closed at 2018-11-12 17:52:21
+
+Log opened at 2018-11-12 17:52:22
+I: Connecting to configured address/port: localhost:9000.
+W: Creating socket for 'localhost:9000', poll success, but error: Operation now in progress (19).
+W: Creating socket for 'localhost:9000', poll success, but error: Operation now in progress (19).
+E: Could not connect to client. :-(
+Log closed at 2018-11-12 17:52:22
+
+Log opened at 2018-11-12 17:52:30
+I: Connecting to configured address/port: localhost:9000.
+W: Creating socket for 'localhost:9000', poll success, but error: Operation now in progress (19).
+W: Creating socket for 'localhost:9000', poll success, but error: Operation now in progress (19).
+E: Could not connect to client. :-(
+Log closed at 2018-11-12 17:52:30
+
+Log opened at 2018-11-12 17:52:54
+I: Connecting to configured address/port: localhost:9000.
+W: Creating socket for 'localhost:9000', poll success, but error: Operation now in progress (19).
+W: Creating socket for 'localhost:9000', poll success, but error: Operation now in progress (19).
+E: Could not connect to client. :-(
+Log closed at 2018-11-12 17:52:54
+
+Log opened at 2018-11-12 17:53:05
+I: Connecting to configured address/port: localhost:9000.
+W: Creating socket for 'localhost:9000', poll success, but error: Operation now in progress (19).
+W: Creating socket for 'localhost:9000', poll success, but error: Operation now in progress (19).
+E: Could not connect to client. :-(
+Log closed at 2018-11-12 17:53:06
+
+Log opened at 2018-11-12 17:53:13
+I: Connecting to configured address/port: localhost:9000.
+W: Creating socket for 'localhost:9000', poll success, but error: Operation now in progress (19).
+W: Creating socket for 'localhost:9000', poll success, but error: Operation now in progress (19).
+E: Could not connect to client. :-(
+Log closed at 2018-11-12 17:53:13
+
+Log opened at 2018-11-12 18:00:32
+I: Connecting to configured address/port: localhost:9000.
+W: Creating socket for 'localhost:9000', poll success, but error: Operation now in progress (19).
+W: Creating socket for 'localhost:9000', poll success, but error: Operation now in progress (19).
+E: Could not connect to client. :-(
+Log closed at 2018-11-12 18:00:32
+
+Log opened at 2018-11-12 18:00:52
+I: Connecting to configured address/port: localhost:9000.
+W: Creating socket for 'localhost:9000', poll success, but error: Operation now in progress (19).
+W: Creating socket for 'localhost:9000', poll success, but error: Operation now in progress (19).
+E: Could not connect to client. :-(
+Log closed at 2018-11-12 18:00:52
+
